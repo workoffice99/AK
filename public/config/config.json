@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAdC4C0ebaF78999c92220C6535748DA6574BC93D",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xAdC4C0ebaF78999c92220C6535748DA6574BC93D",
+  "NETWORK": {
+    "NAME": "Goerli Test Network",
+    "SYMBOL": "Eth",
+    "ID": 5
+  },
+  "NFT_NAME": "Loyal Apes Kingdom",
+  "SYMBOL": "LAK",
+  "MAX_SUPPLY": 7600 ,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/virulent-apes-town-club",
+  "SHOW_BACKGROUND": true
+}
